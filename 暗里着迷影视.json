@@ -1,105 +1,103 @@
-http://wp.wsmywlkj.top/f/yZjCp/%E6%9C%A8%E9%9B%A8%E7%BD%91%E7%9B%98.txt
-http://wp2.wsmywlkj.top/f/QghY/KTV%E6%AD%8C%E5%8E%85MV.js
 {
-    "spider": "http://wp.wsmywlkj.top/f/BQNIz/%E6%9A%97%E9%87%8C%E7%9D%80%E8%BF%B7.jar;md5;f825a0ce4269de14fdeab22d9418472e",
-    "logo":"http://wp.wsmywlkj.top/f/1o3HY/mmexport1679167378111.png",
-    "wallpaper": "https://yubox.xyz/php/yy.php",
-    "warningText": "✨暗里着迷提醒您✨:所有资源来源于网络，仅供参考学习，禁止买卖和用于违法。如有冒犯请联系删除！！！",
-    "sites": [
-{"key":"豆瓣1","name":"暗里着迷影视欢迎您🇨🇳❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "http://wp.wsmywlkj.top/f/OG1HK/%E8%B7%91%E9%A9%AC%E7%81%AF.json"},
+"蜘蛛"："http://wp.wsmywlkj.top/f/BQNIz/%E6%9A%97%E9%87%8C%E7%9D%80%E8%BF%B7.jar;md5;f825a0ce4269de14fdeab22d9418472e"，
+"logo"："http://wp.wsmywlkj.top/f/1o3HY/mmexport1679167378111.png"，
+"壁纸"："https://yubox.xyz/php/yy.php"，
+"warningText"："✨暗里着迷提醒您✨：所有资源来源于网络，仅供参考学习，禁止买卖和用于违法.如有冒犯请联系删除！！！"，
+“站点”：[[
+{"键"{键"{"key"："豆瓣1"，"名称"："暗里着迷影视欢迎您🇨🇳❤"，"type"：3，"api"："csp_Notice"，"searchable"：0，"changeible"：0密钥"："豆瓣1"，"name"："暗里着迷影视欢迎您🇨🇳❤"，"type"：3，"api"："csp_Notice"，"searchable"：0，"可变"：0，"罐子"："https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b"，"外部"："http://wp.wsmywlkj.top/f/OG1HK/%E8%B7%91%E9%A9%AC%E7%81%AF.json"}，3，"api"："csp_Notice"，"可搜索"：0，"可变"：0，"罐子"："https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b"，"eXT"："http://wp.wsmywLKJ.top/f/OG1HK/%E8%B7%91%E9%A9%AC%E7%81%AF.JSON"}，
 {
-      "key": "KTV",
-      "name": "着迷KTV",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "http://wp2.wsmywlkj.top/f/QghY/KTV%E6%AD%8C%E5%8E%85MV.js",
-      "style": {
-        "type": "list"
+"key""key"："ktv"，
+"名称""名称"："着迷KTV"，
+“类型”：3，
+"api"："https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js"，
+"ext"："http://wp2.wsmywlkj.top/f/QghY/KTV%E6%AD%8C%E5%8E%85MV.js"，
+“样式”：{
+“类型”：“列表”
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+"可搜索"：0，
+"快速搜索"：0，
+“可更改”：0
     },
 {
-      "key": "羊羊",
-      "name": "羊羊｜APP",
-      "type": 3,
-      "jar":"https://d.kstore.dev/download/5079/Kanhai.jar",
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.xy4k.com",
-        "site": "",
-        "dataKey": "7SDWjknU34zqFbVr",
-        "dataIv": "7SDWjknU34zqFbVr",
-        "deviceId": "",
-        "version": ""
+"密钥"："羊羊"，
+"名称"："羊|APP"，
+“类型”：3，
+"jar"："https://d.kstore.dev/download/5079/Kanhai.jar"，
+"快速搜索"：1，
+"api"："csp_AppGet"，
+“ext”：{
+"URL"："https://appcms.xy4k.com"，
+"站点"：""，
+"Datakey"："7SDWjknU34zqFbVr"，
+"dataIv"："7SDWjknU34zqFbVr"，
+"deviceId"：""，
+版本“”：“”
       }
     },
 
 {
-      "key": "短剧",
-      "name": "着迷短剧",
-      "type": 0,
-      "api": "https://ww.tyyszy5.com/api.php/provide/vod/at/xml/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+"密钥"："短剧"，
+"名称"："着迷短剧"，
+“类型”：0，
+"api"："https://ww.tyyszy5.com/api.php/provide/vod/at/xml/?ac=list"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
     },
 
-      {"key": "腾讯视频",
-      "name": "4K腾讯🍁",
-      "type": 3,
-      "jar": "http://pan.aa53.cn/down.php/147ba1d296eb1662014630217199f964.jar;md5;147ba1d296eb1662014630217199f964",
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"
+{"键"："腾讯视频"，
+"name"："4K腾讯🍁"，
+“类型”：3，
+"jar"："http://pan.aa53.cn/down.php/147ba1d296eb1662014630217199f964.jar;md5;147ba1d296eb1662014630217199f964"，
+"api"："https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js"，
+"ext"："https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"
     },
     {
-      "key": "芒果视频",
-      "name": "4K芒果🍁",
-      "type": 3,
-      "jar": "http://pan.aa53.cn/down.php/147ba1d296eb1662014630217199f964.jar;md5;147ba1d296eb1662014630217199f964",
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
+"密钥"："芒果视频"，
+"name"："4K芒果n-0"，
+“类型”：3，
+"jar"："http://pan.aa53.cn/down.php/147ba1d296eb1662014630217199f964.jar;md5;147ba1d296eb1662014630217199f964"，
+"api"："https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js"，
+"ext"："https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
     },
         {
-            "key": "优酷视频",
-            "name": "4K优酷🍁",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKSP.js"
+"密钥"："优酷视频"，
+"name"："4K优酷N-0"，
+"type"：3，
+"api"："https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js"，
+"外部"："https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKSP.js"
         },
         {
-            "key": "爱奇艺",
-            "name": "💥4K爱奇🍁",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"
+"密钥"："爱奇艺"，
+"name"："💥4K爱奇c🍁"，
+"type"：3，
+"api"："https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js"，
+"外部"："https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"
         },
 {
-    "key":"drpy_js_360",
-    "name":"4K360🍁",
-    "type":3,
-    "api":"https://gitee.com/xugege964203/mao/raw/master/api.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://gitee.com/xugege964203/mao/raw/master/js/360.js"
+"键"："drpy_js_360"，
+"name"："4K360🍁"，
+“类型”：3，
+"api"："https://gitee.com/xugege964203/mao/raw/master/api.js"，
+"可搜索"：1，
+"快速搜索"：1，
+"可过滤"：1，
+"外部"："https://gitee.com/xugege964203/mao/raw/master/js/360.js"
     },
    
 
 
 {
-            "key": "清风",
-            "name": "4K清风🍁",
-            "type": 1,
-            "api": "http://6.qqqtv.top:80/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "电影",
-                "电视剧",
+"密钥"："清风"，
+“名称”：“4K清风-0"，
+“类型”：1，
+"api"："http://6.qqqtv.top:80/api.php/provide/vod/?ac=list"，
+"可搜索"：1，
+"快速搜索"：1，
+"可过滤"：1，
+“类别”：[
+"电影",
+"电视剧",
                 "综艺",
                 "动漫"
             ]
