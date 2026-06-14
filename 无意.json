@@ -1,102 +1,102 @@
 {
-    "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd", 
-    "wallpaper": "https://hefollo.com/apis.php?type=手机端-美女图片", 
-    "logo": "http://php.540734621.xyz/logo/logo.php", 
-    "warningText": "无意云整合，请勿付费购买！", 
-    "sites": [
+"蜘蛛"："https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"，
+"壁纸"："https://hefollo.com/apis.php?type=手机端-美女图片"，
+"logo"："http://php.540734621.xyz/logo/logo.php"，
+"warningText"："无意云整合，请勿付费购买！"，
+“站点”：[
         {
-            "key": "豆瓣", 
-            "name": "无意云┃空间", 
-            "type": 3, 
-            "api": "csp_Douban", 
-            "searchable": 0
+"密钥"："豆瓣"，
+"名称"："无意云┃空间"，
+“类型”：3，
+"api"："csp_豆瓣"，
+“可搜索”：0
         }, 
         {
-            "key": "瓜子影视", 
-            "name": "无意云┃HDR", 
-            "type": 3, 
-            "api": "csp_Gz360", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
+"密钥"："瓜子影视"，
+"名称"："无意云┃HDR"，
+“类型”：3，
+"api"："csp_Gz360"，
+"可搜索"：1，
+"快速搜索"：1，
+“可过滤”：1
         }, 
         {
-            "key": "配置中心", 
-            "name": "配置中心┃xs", 
-            "type": 3, 
-            "api": "csp_Config", 
-            "searchable": 0, 
-            "changeable": 0, 
-            "indexs": 0, 
-            "style": {
-                "type": "rect", 
-                "ratio": 1.597
+"密钥"："配置中心"，
+"name"："配置中心┃xs"，
+“类型”：3，
+"api"："csp_Config"，
+"可搜索"：0，
+"可更改"：0，
+"索引"：0，
+“样式”：{
+"类型"："rect"，
+“比率”：1.597
             }
         }, 
         {
-            "key": "本地", 
-            "name": "本地的┃无意云", 
-            "type": 3, 
-            "api": "csp_LocalFile"
+"密钥"："本地"，
+"名称"："本地的┃无意云"，
+“类型”：3，
+"api"："csp_Localfile"
+分机： https://ym.wya
+{
+}
+"名称"："腾云驾雾┃无意云"，
+“类型”：3，3，
+"api"："https://ym.wya6.cn/xsa/js/drpy2.min.js"，
+"外部""https://ym.wya6.cn/xsa/js/腾讯视频.JS"
         }, 
         {
-            "key": "腾讯视频", 
-            "name": "腾云驾雾┃无意云", 
-            "type": 3, 
-            "api": "https://ym.wya6.cn/xsa/js/drpy2.min.js", 
-            "ext": "https://ym.wya6.cn/xsa/js/腾讯视频.js"
+"密钥"："芒果视频"，："芒果视频"，
+"名称"："百忙无果┃无意云"，
+“类型”：3，3，
+"api"："https://ym.wya6.cn/xsa/js/drpy2.min.js"，
+"外部""https://ym.wya6.cn/xsa/js/芒果视频.JS"
         }, 
         {
-            "key": "芒果视频", 
-            "name": "百忙无果┃无意云", 
-            "type": 3, 
-            "api": "https://ym.wya6.cn/xsa/js/drpy2.min.js", 
-            "ext": "https://ym.wya6.cn/xsa/js/芒果视频.js"
-        }, 
-        {
-            "key": "无意哔哩", 
-            "name": "哔哩次元┃无意云", 
-            "type": 3, 
-            "api": "https://ym.wya6.cn/xsa/js/drpy2.min.js", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "https://yp.wya6.cn/nbwj/哔哩视频.js"
+"密钥"："无意哔哩"，："无意哔哩"，
+"名称"："哔哩次元┃无意云"，
+“类型”：3，3，
+"api"："https://ym.wya6.cn/xsa/js/drpy2.min.js"，
+"可搜索"：1，1，
+"快速搜索"：1，1，
+"可过滤"：1，1，
+"外部""https://yp.wya6.cn/nbwj/哔叽视频.JS""https://yp.wya6.cn/nbwj/哔叽视频.JS"
         },
         {
-            "key": "爱奇艺", 
-            "name": "奇珍艺宝┃无意云", 
-            "type": 3, 
-            "api": "https://ym.wya6.cn/xsa/js/drpy2.min.js", 
-            "ext": "https://ym.wya6.cn/xsa/js/爱奇艺.js"
+"密钥"："爱奇艺"，："爱奇艺"，
+"名称"："奇珍艺宝┃无意云"，
+“类型”：3，3，
+"api"："https://ym.wya6.cn/xsa/js/drpy2.min.js"，
+分机： https://ym.wya6.cn/XSA/js/爱奇艺JS"6.cn/XSA/js/爱奇艺JS"
         }, 
         {
-            "key": "优酷视频", 
-            "name": "优秀酷毙┃无意云", 
-            "type": 3, 
-            "api": "https://ym.wya6.cn/xsa/js/drpy2.min.js", 
-            "ext": "https://ym.wya6.cn/xsa/js/优酷视频.js"
+"密钥"："优酷视频"，
+"名称"："优秀酷毙┃无意云"，
+“类型”：3，
+"api"："https://ym.wya6.cn/xsa/js/drpy2.min.js"，
+"外部"："https://ym.wya6.cn/xsa/js/优酷视频.JS"
         }, 
         {
-            "key": "gm4k",
-            "name": "高码限时┃无意云",
-            "type": 4,
-            "api": "https://wy.wya6.cn/djcs/gm.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+"键"："gm4k"，
+"名称"："高码限时┃无意云"，
+“类型”：4，
+"api"："https://wy.wya6.cn/djcs/gm.php"，
+"可搜索"：1，
+"快速搜索"：1，
+“可过滤”：1
         },
         {
-            "key": "玩偶",
-            "name": "玩偶｜4K",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
+"密钥"："玩偶"，
+"名称"："玩偶|4K"，
+“类型”：3，
+"api"："csp_Wogg"，
+"可搜索"：1，
+"快速搜索"：1，
+"可过滤"：1，
+“可变”：1，
+“ext”：{
+“站点”：[
                     "https://www.wogg.net",
                     "https://wogg.xxooo.cf",
                     "https://woggpan.xxooo.cf"
