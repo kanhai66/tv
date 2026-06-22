@@ -1,6 +1,6 @@
-上海联通,,#genre#
-萌妹摔角-雪儿,https://live.ottiptv.cc/yy/1355285961
-软妹搏击-婷婷,https://live.ottiptv.cc/yy/1355277346
+上海联通，，#类型#
+萌妹摔角-雪儿, https://live.ottiptv.cc/yy/1355285961
+软妹搏击-婷婷, https://live.ottiptv.cc/yy/1355277346
 襄阳经济生活,https://34911-live.hlsplay.aodianyun.com/tv_radio_34911/tv_channel_2675.m3u8?auth_key=3341354196-0-0-4f57d23b9b993662753a7fcc254d244d&extra_key=DvfpyLJ32Vv8klXZFfP-IuLn8RqvXLeY1cyJjgBe8SL4ayNpI7gvFlgroM_-85oAJpNCVJbKFDvFkEhrbok3c1x_3s0yqt_jYRqUczWbiRGefRfLwgZaPDbUv0FS0c4Li6h03g-xAkuRHmAGMLa2n144WBXri9f7s2VqOvjmPjU
 
 上海新闻综合,http://20.253.1.12/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.26/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
@@ -18,10 +18,10 @@
 
 CCTV1综合,http://20.253.1.25/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.15/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.21/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.37/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.26/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 CCTV2财经,http://20.253.1.14/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.9/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
-CCTV3综艺,http://20.253.1.12/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.14/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.34/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+CCTV3综合艺,http://20.253.1.12/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.14/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.34/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 CCTV4中文国际,http://20.253.1.31/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.32/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.22/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
-CCTV5体育,http://nas.jqcykj.com:91/live/CCTV-5H265_4000.m3u8#http://nas.jqcykj.com:33/641886683
-CCTV5+体育赛事,http://nas.jqcykj.com:91/live/CCTV-5plusH265_4000.m3u8#http://nas.jqcykj.com:33/641886773
+CCTV5体育，http://nas.jqcykj.com:91/live/CCTV-5H265_4000.m3u8#http://nas.jqcykj.com:33/641886683
+CCTV5+体育赛事，http://nas.jqcykj.com:91/live/CCTV-5plusH265_4000.m3u8#http://nas.jqcykj.com:33/641886773
 CCTV6电影,http://20.253.1.34/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.8/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.17/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 CCTV7国防军事,http://20.253.1.10/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.14/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.33/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 CCTV8电视剧,http://20.253.1.13/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.29/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.30/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
@@ -30,21 +30,21 @@ CCTV10科教,http://20.253.1.14/PLTV/88888888/224/3221225889/1000010000000006000
 CCTV11戏曲,http://20.253.1.33/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.34/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.38/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 CCTV12社会与法,http://20.253.1.14/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.15/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.16/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=172#http://nas.jqcykj.com:88/bst/2?id=172
 CCTV13新闻,http://20.253.1.29/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.37/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.38/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=173#http://nas.jqcykj.com:88/bst/2?id=173
-CCTV14少儿,http://20.253.1.8/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.17/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.18/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=174#http://nas.jqcykj.com:88/bst/2?id=174
+CCTV14小儿子,http://20.253.1.8/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.17/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.18/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=174#http://nas.jqcykj.com:88/bst/2?id=174
 CCTV15音乐,http://20.253.1.31/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.32/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.37/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.38/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=175#http://nas.jqcykj.com:88/bst/2?id=175
-CCTV16奥林匹克,http://nas.jqcykj.com:89/live/CCTV-16_4000.m3u8#http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV16奥林匹克，http://nas.jqcykj.com:89/live/CCTV-16_4000.m3u8#http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV17农业农村,http://20.253.1.8/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.17/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.18/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=176#http://nas.jqcykj.com:88/bst/2?id=176
 CGTN新闻,http://20.253.1.23/PLTV/88888888/224/3221225652/10000100000000060000000000012463_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.24/PLTV/88888888/224/3221225652/10000100000000060000000000012463_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
-CGTN纪录,https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbcd/playlist.m3u8
-CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN西语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CCTV4欧洲,http://nas.jqcykj.com:30/608807419
-CCTV4美洲,http://nas.jqcykj.com:30/608807416
+CGTN纪录，https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbcd/playlist.m3u8
+CGTN法语，https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN俄语，https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN阿拉伯语，https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN西语，https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CCTV4欧洲，http://nas.jqcykj.com:30/608807419
+CCTV4美洲，http://nas.jqcykj.com:30/608807416
 //央视源1080
-CCTV-4K超高清,http://nas.jqcykj.com:88/ysp?id=cctv4k
-CCTV-8K超高清,http://nas.jqcykj.com:88/ysp?id=cctv8k
+CCTV-4K超高清，http://nas.jqcykj.com:88/ysp?id=cctv4k
+CCTV-8K超高清，http://nas.jqcykj.com:88/ysp?id=cctv8k
 CETV1综合教育,http://20.253.1.17/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.18/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.27/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.28/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=204#http://nas.jqcykj.com:88/bst/2?id=204
 CETV2空中课堂,#http://20.253.1.37/PLTV/88888888/224/3221225910/10000100000000060000000000287434_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.38/PLTV/88888888/224/3221225910/10000100000000060000000000287434_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=206#http://nas.jqcykj.com:88/bst/2?id=206
 CETV4职业教育,http://20.253.1.37/PLTV/88888888/224/3221226037/10000100000000060000000002233119_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.38/PLTV/88888888/224/3221226037/10000100000000060000000002233119_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/bst?id=218#http://nas.jqcykj.com:88/bst/2?id=218
@@ -72,33 +72,33 @@ CETV4职业教育,http://20.253.1.37/PLTV/88888888/224/3221226037/10000100000000
 山东卫视,http://20.253.1.10/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.13/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8http://20.253.1.21/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.22/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 天津卫视,http://20.253.1.15/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.16/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.23/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.24/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 吉林卫视,http://20.253.1.8/PLTV/88888888/224/3221225886/10000100000000060000000001558313_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.10/PLTV/88888888/224/3221225886/10000100000000060000000001558313_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
-陕西卫视,http://nas.jqcykj.com:88/ysp?id=shanxiws
+陕西卫视, http://nas.jqcykj.com:88/ysp?id=shanxiws
 宁夏卫视,http://nas.jqcykj.com:88/ysp?id=nxws#https://live-pc.xuexi.cn/merged/nxtv_merge_cqhd.m3u8?auth_key=1782184131-0-17083432466806794-7ea538879860cd23c5b1dee6a33c222d&yid=17083432466806794
-内蒙古卫视,http://nas.jqcykj.com:88/ysp?id=nmgws
+内蒙古卫视, http://nas.jqcykj.com:88/ysp?id=nmgws
 云南卫视,http://20.253.1.9/PLTV/88888888/224/3221225664/10000100000000060000000000012509_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.25/PLTV/88888888/224/3221225664/10000100000000060000000000012509_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/ysp?id=ynws
-山西卫视,http://nas.jqcykj.com:88/ysp?id=shanxiws2
+山西卫视, http://nas.jqcykj.com:88/ysp?id=shanxiws2
 青海卫视,http://20.253.1.9/PLTV/88888888/224/3221225667/10000100000000060000000000012506_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://20.253.1.23/PLTV/88888888/224/3221225667/10000100000000060000000000012506_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8#http://nas.jqcykj.com:88/ysp?id=qhws
-西藏卫视,http://nas.jqcykj.com:88/ysp?id=xzws
-新疆卫视,http://nas.jqcykj.com:88/ysp?id=xjws
+西藏卫视, http://nas.jqcykj.com:88/ysp?id=xzws
+新疆卫视, http://nas.jqcykj.com:88/ysp?id=xjws
 
-东南卫视,http://nas.jqcykj.com:88/bst?id=155#http://nas.jqcykj.com:88/bst/2?id=155
-海峡卫视,http://nas.jqcykj.com:88/bst?id=163#http://nas.jqcykj.com:88/bst/2?id=163
-湖南卫视,http://nas.jqcykj.com:88/bst?id=180#http://nas.jqcykj.com:88/bst/2?id=180
-江苏卫视,http://nas.jqcykj.com:88/bst?id=181#http://nas.jqcykj.com:88/bst/2?id=181
-浙江卫视,http://nas.jqcykj.com:88/bst?id=182#http://nas.jqcykj.com:88/bst/2?id=182
-河北卫视,http://nas.jqcykj.com:88/bst?id=183#http://nas.jqcykj.com:88/bst/2?id=183
-广东卫视,http://nas.jqcykj.com:88/bst?id=184#http://nas.jqcykj.com:88/bst/2?id=184
-山东卫视,http://nas.jqcykj.com:88/bst?id=185#http://nas.jqcykj.com:88/bst/2?id=185
-湖北卫视,http://nas.jqcykj.com:88/bst?id=186#http://nas.jqcykj.com:88/bst/2?id=186
-深圳卫视,http://nas.jqcykj.com:88/bst?id=187#http://nas.jqcykj.com:88/bst/2?id=187
-黑龙江卫视,http://nas.jqcykj.com:88/bst?id=188#http://nas.jqcykj.com:88/bst/2?id=188
-安徽卫视,http://nas.jqcykj.com:88/bst?id=190#http://nas.jqcykj.com:88/bst/2?id=190
-天津卫视,http://nas.jqcykj.com:88/bst?id=191#http://nas.jqcykj.com:88/bst/2?id=191
-四川卫视,http://nas.jqcykj.com:88/bst?id=192#http://nas.jqcykj.com:88/bst/2?id=192
-江西卫视,http://nas.jqcykj.com:88/bst?id=193#http://nas.jqcykj.com:88/bst/2?id=193
-辽宁卫视,http://nas.jqcykj.com:88/bst?id=194#http://nas.jqcykj.com:88/bst/2?id=194
-重庆卫视,http://nas.jqcykj.com:88/bst?id=195#http://nas.jqcykj.com:88/bst/2?id=195
-北京卫视,http://nas.jqcykj.com:88/bst?id=196#http://nas.jqcykj.com:88/bst/2?id=196
+东南卫视，http://nas.jqcykj.com:88/bst?id=155#http://nas.jqcykj.com:88/bst/2?id=155
+海峡卫视，http://nas.jqcykj.com:88/bst?id=163#http://nas.jqcykj.com:88/bst/2?id=163
+湖南卫视，http://nas.jqcykj.com:88/bst?id=180#http://nas.jqcykj.com:88/bst/2?id=180
+江苏卫视，http://nas.jqcykj.com:88/bst?id=181#http://nas.jqcykj.com:88/bst/2?id=181
+浙江卫视，http://nas.jqcykj.com:88/bst?id=182#http://nas.jqcykj.com:88/bst/2?id=182
+河北卫视，http://nas.jqcykj.com:88/bst?id=183#http://nas.jqcykj.com:88/bst/2?id=183
+广东卫视，http://nas.jqcykj.com:88/bst?id=184#http://nas.jqcykj.com:88/bst/2?id=184
+山东卫视，http://nas.jqcykj.com:88/bst?id=185#http://nas.jqcykj.com:88/bst/2?id=185
+湖北卫视，http://nas.jqcykj.com:88/bst?id=186#http://nas.jqcykj.com:88/bst/2?id=186
+深圳卫视，http://nas.jqcykj.com:88/bst?id=187#http://nas.jqcykj.com:88/bst/2?id=187
+黑龙江卫视，http://nas.jqcykj.com:88/bst?id=188#http://nas.jqcykj.com:88/bst/2?id=188
+安徽卫视，http://nas.jqcykj.com:88/bst?id=190#http://nas.jqcykj.com:88/bst/2?id=190
+天津卫视，http://nas.jqcykj.com:88/bst?id=191#http://nas.jqcykj.com:88/bst/2?id=191
+四川卫视，http://nas.jqcykj.com:88/bst?id=192#http://nas.jqcykj.com:88/bst/2?id=192
+江西卫视，http://nas.jqcykj.com:88/bst?id=193#http://nas.jqcykj.com:88/bst/2?id=193
+辽宁卫视，http://nas.jqcykj.com:88/bst?id=194#http://nas.jqcykj.com:88/bst/2?id=194
+重庆卫视，http://nas.jqcykj.com:88/bst?id=195#http://nas.jqcykj.com:88/bst/2?id=195
+北京卫视，http://nas.jqcykj.com:88/bst?id=196#http://nas.jqcykj.com:88/bst/2?id=196
 云南卫视,http://nas.jqcykj.com:88/bst?id=197#http://nas.jqcykj.com:88/bst/2?id=197
 河南卫视,http://nas.jqcykj.com:88/bst?id=198#http://nas.jqcykj.com:88/bst/2?id=198
 海南卫视,http://nas.jqcykj.com:88/bst?id=199#http://nas.jqcykj.com:88/bst/2?id=199
